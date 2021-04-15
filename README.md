@@ -1,4 +1,4 @@
-# keepalive
+# KeepAlive
 A very small AutoHotKey script/executable that simulates a "Right Ctrl" press to keep your computer computing. 
 
 It's small and simple and stupid, but it works and I just keep coming back to it. 
